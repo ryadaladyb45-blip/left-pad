@@ -1,4 +1,4 @@
-## left-pad
+npm i left-pad## left-pad
 
 String left pad
 
